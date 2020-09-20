@@ -11,4 +11,6 @@
    ### (4) 使用XGBOOST進行訓練
 ### 3.結果
    ### (1)計算得分公式
+   ![image](https://github.com/mv123453715/Fast-Timing-Model-Estimation-for-new-PVT-Novatek-Microelectronics-/blob/master/score.jpg)
+ 
    ### (2)Score：60.98 (優於目前公布成績的第四名)
